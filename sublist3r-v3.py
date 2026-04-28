@@ -80,7 +80,7 @@ def banner():
 
             ▶ Atmani
 
-    """ % (R, W, Y))
+    """ % (R, W, R))
 
 
 def parser_error(errmsg):
